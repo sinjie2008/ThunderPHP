@@ -1,0 +1,18 @@
+{
+	"name":"Home Page",
+	"version":"1.0.0",
+	"id":"home-page",
+	"author":"Eathorne",
+	"author website":"www.freephptutorials.com",
+	"thumbnail":"thumbnail.jpg",
+	"active":true,
+	"index":3,
+	"routes": {
+		"on":["home"],
+		"off":[]
+	},
+	"dependencies": {
+
+	}
+
+}

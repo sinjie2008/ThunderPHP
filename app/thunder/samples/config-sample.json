@@ -1,0 +1,19 @@
+{
+	"name":"New Plugin",
+	"version":"1.0.0",
+	"id":"new-plugin",
+	"description":"",
+	"author":"",
+	"author website":"",
+	"thumbnail":"thumbnail.jpg",
+	"active":true,
+	"index":1,
+	"routes": {
+		"on":["all"],
+		"off":[]
+	},
+	"dependencies": {
+
+	}
+
+}

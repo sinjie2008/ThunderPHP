@@ -1,0 +1,18 @@
+{
+	"name":"Plugin Manager",
+	"version":"1.0.0",
+	"id":"plugin-manager",
+	"description":"Manages and controls all plugins in the system",
+	"author":"Eathorne",
+	"author website":"",
+	"thumbnail":"thumbnail.jpg",
+	"active":true,
+	"index":1,
+	"routes": {
+		"on":["admin"],
+		"off":[]
+	},
+	"dependencies": {
+		"basic-auth":"1.0.0"
+	}
+}

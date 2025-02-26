@@ -1,0 +1,19 @@
+{
+	"name":"Slider",
+	"description":"",
+	"version":"1.0.0",
+	"id":"slider",
+	"author":"Eathorne",
+	"author website":"",
+	"thumbnail":"thumbnail.jpg",
+	"active":true,
+	"index":1,
+	"routes": {
+		"on":["home","admin"],
+		"off":[]
+	},
+	"dependencies": {
+		"home-page":"1.0.0"
+	}
+
+}
